@@ -35,7 +35,7 @@ ChatGPT's current accessibility lacks support for users with limited vision or m
 ### Circiut Diagram
 
 
-### Conclusion
+### ✅Conclusion
 
 Our user-centric product revolutionizes accessibility which is also affordable, enabling users with visual impairments or impaired motor control challenges to interact with ChatGPT effortlessly through voice commands and synthesized speech. It provides inclusive digital experiences, empowering millions to engage with AI technology on equal terms. By addressing these accessibility challenges, we take a crucial step towards a more inclusive technological future.
 
