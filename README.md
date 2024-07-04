@@ -1,14 +1,14 @@
 # Electro Voice GPT 
 Our product is made for the ELCIA hackathon. This project is under the theme **Deep-Tech**.
 
- ### 📝Project Description 
+ ### 🌟Project Description 
  
  Electro Voice GPT is an innovative hands-free chat companion designed to revolutionize the way we interact with technology. This project harnesses the power of cutting-edge AI and voice recognition technologies to create a seamless, intuitive, and engaging communication experience. Imagine a world where your voice commands control your digital life, enabling you to accomplish tasks effortlessly and efficiently. Welcome to the future with Electro Voice GPT, the assistive gadget that is set to transform daily interactions with technology.
 
  ### 🔊Our Tagline 
 Hands-Free Chat Companion. 
 
-### Table of contents
+### 📝Table of contents
 * [Introduction](#introduction)
 
 * [Problem Statement](#problem-statement)
@@ -32,7 +32,7 @@ ChatGPT's current accessibility lacks support for users with limited vision or m
 * Tailored tools for independent daily use and inclusive interactions.
 * Integrated advanced technology to support diverse accessibility needs.
 
-
+### Circiut Diagram
 
 
 
