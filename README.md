@@ -9,9 +9,9 @@ Our product is made for the ELCIA hackathon. This project is under the theme **D
 Hands-Free Chat Companion. 
 
 ### Table of contents
--[Introduction](###introduction)
+[Introduction](###introduction)
 
--[Problem Statement](###Problem-Statement)
+[Problem Statement](###Problem-Statement)
 
  ### Introduction 
 
