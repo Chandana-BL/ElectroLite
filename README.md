@@ -9,9 +9,11 @@ Our product is made for the ELCIA hackathon. This project is under the theme **D
 Hands-Free Chat Companion. 
 
 ### Table of contents
-[Introduction](###introduction)
+* [Introduction](#introduction)
 
-[Problem Statement](###Problem-Statement)
+* [Problem Statement](#problem-statement)
+
+* [Problem It Solves](#problem-it-solves)
 
  ### Introduction 
 
@@ -23,7 +25,12 @@ What sets Electro Voice GPT apart is its commitment to inclusivity. About 15% of
 
 ChatGPT's current accessibility lacks support for users with limited vision or motor control, making AI interaction difficult. Enhancing accessibility is crucial for enabling these users to fully engage with AI technologies. Electro Voice GPT addresses these needs with voice-guided assistance for the blind and visual alerts for the deaf. This focus on inclusivity ensures that everyone, regardless of physical abilities, can benefit from AI technology.
 
-### Key Features :
+### 🔎 Problems It Solves 
+
+* Developed Electro Voice GPT to enhance accessibility for visually impaired, limited vision, and motor-impaired individuals.
+* Innovated AI-driven solutions for seamless multitasking and accessibility advocacy.
+* Tailored tools for independent daily use and inclusive interactions.
+* Integrated advanced technology to support diverse accessibility needs.
 
 
 
