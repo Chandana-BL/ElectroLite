@@ -10,7 +10,8 @@ Hands-Free Chat Companion.
 
 ### Table of contents
 -[Introduction](###introduction)
--[Problem Statement](#problem statement)
+
+-[Problem Statement](###Problem-Statement)
 
  ### Introduction 
 
@@ -18,7 +19,7 @@ In today’s busy world, multitasking is essential, and the need for hands-free 
 
 What sets Electro Voice GPT apart is its commitment to inclusivity. About 15% of the global population lives with some form of disability, and Electro Voice GPT aims to bridge this gap. For visually impaired individuals, it offers voice-guided assistance, providing information and performing tasks without visual input. For those who are deaf or hard of hearing, it integrates with visual alerts and text-based communication tools. Embrace the future with Electro Voice GPT, where your voice is the command and inclusivity is a priority🌟.
 
- ### Problem Statement :
+ ### Problem Statement 
 
 ChatGPT's current accessibility lacks support for users with limited vision or motor control, making AI interaction difficult. Enhancing accessibility is crucial for enabling these users to fully engage with AI technologies. Electro Voice GPT addresses these needs with voice-guided assistance for the blind and visual alerts for the deaf. This focus on inclusivity ensures that everyone, regardless of physical abilities, can benefit from AI technology.
 
